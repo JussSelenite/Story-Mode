@@ -14,3 +14,6 @@ So I made it back, while adding some changes to it.
 "The Pictures" files - displaying the ASCII art used in the game. The original drawings (except for the fox pic) are made by me, I used a website (www.text-image.com) to convert them int ASCII art.
 
 
+"The Choices" file - my initial codings for the remake version.
+
+
