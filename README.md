@@ -6,6 +6,6 @@ So I made it back, while adding some changes to it.
 
 "Storymode" files - the recovered files of the original program. I got to save the .exe file, but some of the data are gone forever.
 "Story-Mode" files - the remake version. It's a multiple-choice story game (It's like Visual Novel, but no VIsuals?)
-"The Pictures" files - displaying the ASCII art used in the game. The original drawings made by me, I used a website (www.text-image.com) to convert them int ASCII art.
+"The Pictures" files - displaying the ASCII art used in the game. The original drawings (except for the fox pic) are made by me, I used a website (www.text-image.com) to convert them int ASCII art.
 
 
